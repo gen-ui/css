@@ -1,0 +1,24 @@
+{
+  "name": "css",
+  "version": "0.0.0",
+  "description": "Pure CSS framework",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/komplib/css.git"
+  },
+  "keywords": [
+    "css",
+    "framework",
+    "components"
+  ],
+  "author": "Luiz Tanure",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/komplib/css/issues"
+  },
+  "homepage": "https://github.com/komplib/css#readme"
+}
